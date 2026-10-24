@@ -175,8 +175,34 @@ https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar.m3u8
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 #EXTINF:-1 tvg-id="TVRI Yogyakarta (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="Indonesia",TVRI Yogyakarta (720p)
 https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
+#EXTINF:-1 tvg-id="Groovia Kids" group-title="Indonesia",Groovia Kids
+https://gist.githubusercontent.com/iptvonlinetv/244b66c61f162a7c0c2b4fa59b528139/raw/2376b7ba1989ebbd383301ec7d645e222a6c9338/udp780.510.345:4545.m3u8
 #EXTINF:-1 tvg-id="Rally TV" group-title="United States",Rally TV
 https://rally-tv-live.akamaized.net/hls/live/2117704/RallyTV-Pri/master.m3u8
+#EXTINF:-1 tvg-id="Cartoon Network" group-title="United States",Cartoon Network
+http://tvsen7.aynascope.net/cartoonnetwork/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon" group-title="United States",Nickelodeon
+http://198.58.104.90:8989/nickelodeon/index.m3u8
+#EXTINF:-1 tvg-id="Nick Jr." group-title="United States",Nick Jr.
+http://tvsen7.aynascope.net/nickjr/index.m3u8
+#EXTINF:-1 tvg-id="Nicktoons" group-title="United States",Nicktoons
+http://41.205.93.154/NICKTOONS/index.m3u8
+#EXTINF:-1 tvg-id="TeenNick" group-title="United States",TeenNick
+http://tvsen7.aynascope.net/teennick/index.m3u8
+#EXTINF:-1 tvg-id="Boomerang" group-title="United States",Boomerang
+http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
+#EXTINF:-1 tvg-id="Toonami Aftermath" group-title="United States",Toonami Aftermath
+http://api.toonamiaftermath.com:3000/est/playlist.m3u8
+#EXTINF:-1 tvg-id="Tooncast" group-title="United States",Tooncast
+http://38.134.250.110:8000/play/a01t/index.m3u8
+#EXTINF:-1 tvg-id="Kartoon Channel!" group-title="United States",Kartoon Channel!
+https://lightning-fnf-samsungaus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ToonGoggles" group-title="United States",ToonGoggles
+https://amg01329-otterainc-toongoggles-samsungau-ad-4c.amagi.tv/playlist/amg01329-otterainc-toongoggles-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="FilmRise Anime" group-title="United States",FilmRise Anime
+https://dvu7aia8rjlfm.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="Disney Junior" group-title="United States",Disney Junior
+http://tvsen5.aynascope.net/disney/index.m3u8
 #EXTINF:-1 tvg-id="Fox" group-title="United States",Fox
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox4dallaskdfw-vizious/playlist.m3u8
 #EXTINF:-1 tvg-id="Fox News Channel" group-title="United States",Fox News Channel
@@ -267,14 +293,20 @@ https://rpn.bozztv.com/gusa/gusa-TVSCartoonNetwork/index.m3u8
 https://aegis-cloudfront-1.tubi.video/36ef2f9d-7100-4c4d-b41a-dbf41ab7e461/playlist.m3u8
 #EXTINF:-1 tvg-id="MLB Strike Zone" group-title="United States",MLB Strike Zone
 http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8
-#EXTINF:-1 tvg-id="Disney Junior" group-title="United States",Disney Junior
-http://tvsen5.aynascope.net/disney/index.m3u8
-#EXTINF:-1 tvg-id="Nick Jr." group-title="United States",Nick Jr.
-http://tvsen7.aynascope.net/nickjr/index.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon" group-title="United States",Nickelodeon
-http://198.58.104.90:8989/nickelodeon/index.m3u8
-#EXTINF:-1 tvg-id="Nicktoons" group-title="United States",Nicktoons
-http://41.205.93.154/NICKTOONS/index.m3u8
+#EXTINF:-1 tvg-id="MTV" group-title="United States",MTV
+http://23.237.104.106:8080/USA_MTV/index.m3u8
+#EXTINF:-1 tvg-id="SUMtv English" group-title="United States",SUMtv English
+https://bozztv.com/uni10rtmp/ssstv1-cdn/smil:ssstv1web.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CMTV" group-title="United States",CMTV
+https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/costamesa/G0075_002/playlist.m3u8
+#EXTINF:-1 tvg-id="MTV Live" group-title="United States",MTV Live
+http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
+#EXTINF:-1 tvg-id="MTV2" group-title="United States",MTV2
+http://198.58.104.90:8989/mtv2/index.m3u8
+#EXTINF:-1 tvg-id="TVS Travel Network" group-title="United States",TVS Travel Network
+https://rpn.bozztv.com/gusa/gusa-tvstravel/index.m3u8
+#EXTINF:-1 tvg-id="Food Network" group-title="United States",Food Network
+http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="NHK World-Japan" group-title="Japan",NHK World-Japan
 https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
 #EXTINF:-1 tvg-id="NHK World Premium" group-title="Japan",NHK World Premium
